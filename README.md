@@ -8,4 +8,4 @@ The Adnetic advertisement search project for CmpE 130 Advanced Algorithms course
 
 ## Documentation
 https://docs.google.com/document/d/1O6giYoLZ1f_P5vYMY8Oknm9MsZKxTXyysqUEi8_TFXQ/edit?usp=sharing
-![Overview Architecture](https://ibb.co/fnTSRjg)
+![Overview Architecture](https://i.imgur.com/2MGxo9n.png)
